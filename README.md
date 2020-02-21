@@ -1,3 +1,2 @@
 # Android javascript interface example
-
-http://www.codexpedia.com/android/javascript-interface-for-android-and-javascript-communication/
+![alt text](https://github.com/istiaqahmed90/android_javascript_interface/blob/master/Screenshot_1582301255.png)
